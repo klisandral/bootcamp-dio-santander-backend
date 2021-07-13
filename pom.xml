@@ -14,7 +14,7 @@
 	<artifactId>bootcamp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bootcamp</name>
-	<description>Backend do Bytebank criado no bootcamp</description>
+	<description>Backend do Santander criado no bootcamp</description>
 
 	<properties>
 		<java.version>1.8</java.version>
